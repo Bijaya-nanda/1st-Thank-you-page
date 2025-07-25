@@ -17,8 +17,8 @@ pixelScript.innerHTML = `
   fbq('init', '2723131534561547');
 
   // ✅ Fire Purchase event
-  fbq('track', 'Purchase', {
-    value: 499.00,
+  fbq('track', 'Purchased!!', {
+    value: 299.00,
     currency: 'INR'
   });
 `;
