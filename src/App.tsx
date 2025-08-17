@@ -64,12 +64,12 @@ function App() {
         {/* CTA Button */}
         <div className="text-center mb-12">
   <a 
-    href="https://drive.google.com/drive/folders/1GcR4nuMyQDqSyT62gOJKgFCqGr5LXWHE?usp=sharing" 
+    href="https://wa.me/9337168486" 
     target="_blank" 
     rel="noopener noreferrer"
     className="inline-block bg-gradient-to-r from-indigo-500 to-purple-400 text-white font-bold py-4 px-8 rounded-full text-lg md:text-xl hover:from-indigo-600 hover:to-purple-500 transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl"
   >
-    Download Your Kit Now
+    Get Your Kit Now
   </a>
 </div>
 
