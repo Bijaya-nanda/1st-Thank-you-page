@@ -63,13 +63,16 @@ function App() {
 
         {/* CTA Button */}
         <div className="text-center mb-12">
-          <a 
-            href="#" 
-            className="inline-block bg-gradient-to-r from-indigo-500 to-purple-400 text-white font-bold py-4 px-8 rounded-full text-lg md:text-xl hover:from-indigo-600 hover:to-purple-500 transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl"
-          >
-            Download Your Kit Now
-          </a>
-        </div>
+  <a 
+    href="https://drive.google.com/drive/folders/1GcR4nuMyQDqSyT62gOJKgFCqGr5LXWHE?usp=sharing" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="inline-block bg-gradient-to-r from-indigo-500 to-purple-400 text-white font-bold py-4 px-8 rounded-full text-lg md:text-xl hover:from-indigo-600 hover:to-purple-500 transform hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl"
+  >
+    Download Your Kit Now
+  </a>
+</div>
+
 
         {/* Help Section */}
         <div className="text-center mb-12">
@@ -77,7 +80,7 @@ function App() {
             💬 Need Help? Chat with us anytime on WhatsApp
           </p>
           <a 
-            href="https://wa.me/YOURNUMBER" 
+            href="https://wa.me/9337168486" 
             className="inline-block text-indigo-500 font-bold text-lg hover:text-indigo-600 transition-colors duration-200"
           >
             👉 Open WhatsApp Chat
